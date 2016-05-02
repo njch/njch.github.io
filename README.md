@@ -18,7 +18,7 @@ It's a javascript tape machine for stylehouse waves.
 
 The *.c and *.sc in W/ are not stylehouse waves (and their appliances
 are not very stylehousey at the moment) but you should be able to
-change those links and get your stuff in there.
+change those links to get your stuff in there.
 
 * Must be served via web due to ajax requests to get W/* things.
 * Pics for art mash cannot be on remote hosts (see CORS, or dont)
